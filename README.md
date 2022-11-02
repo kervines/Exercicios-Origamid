@@ -2,7 +2,7 @@
 
 Exercícios propostos pelo curso de HTML e CSS da Origamid
 
-## Desafios Propostos!
+## Exercícios Propostos!
 > - Cinema
 > - Display
 > - Pisicionamento
